@@ -5,8 +5,8 @@
 
 
 @theme {
-  --font-Lato: "Lato", sans-serif; 
-  --font-Sansita: "Sansita", sans-serif; 
+  --font-body: "Lato", sans-serif; 
+  --font-title: "Sansita", sans-serif; 
 
   --color-pri: #081F4D;
   --color-sec: #0083FF;
