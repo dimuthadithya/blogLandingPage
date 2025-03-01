@@ -1,0 +1,41 @@
+# Ignore node_modules and bower_components
+/node_modules
+/bower_components
+
+# Ignore logs
+logs
+*.log
+
+# Ignore tmp and vendor directories
+tmp
+vendor
+
+# Ignore OSX and Windows files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Ignore yarn and npm files
+yarn-error.log
+yarn-debug.log
+npm-debug.log
+.pnpm-debug.log
+
+# Ignore cache and build directories
+/build
+/dist
+/cache
+
+# Ignore IDE files
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
